@@ -3,7 +3,7 @@ title: "FORWARD - Causes and consequences of forest reorganization: Towards unde
 summary: "Funded by European Research Council. PI Rupert Seidl"
 # tags:
 #   - Deep Learning
-date: '2026-01-01'
+date: '2022-09-28'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.edfm.wzw.tum.de/en/projects/forward.html'
