@@ -44,7 +44,7 @@ featured: true
 
 url_pdf: '/uploads/Braziunas_etal2023_Ecology_LessFuelNextFire.pdf'
 url_code: 'https://github.com/kbraziun/Braziunas_etal_SILI'
-url_dataset: 'https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1322.1'
+url_dataset: 'https://doi.org/10.6073/pasta/97bacd7594c89104536d4d2288d93572'
 url_poster: ''
 url_project: ''
 url_slides: ''
