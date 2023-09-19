@@ -6,7 +6,7 @@ summary: "Climate, fire and forests in the Northern Rockies. Funded by Joint Fir
 date: '2021-10-15'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.nrfirescience.org/resource/23601'
+external_link: 'https://www.firescience.gov/projects/20-1-01-6/project/20-1-01-6_final_report.pdf'
 
 image:
   caption: Photo by Jim Peaco, NPS
