@@ -35,7 +35,7 @@ summary: "The most effective strategy for reducing fire risk depends on the scal
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
