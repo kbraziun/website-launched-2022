@@ -4,7 +4,7 @@ title: 'Multiple social and environmental factors affect wildland fire response 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: ["MC Daniels", "KH Braziunas", "MG Turner", "TF Ma", "KC Short", "AR Rissman]
+authors: ["MC Daniels", "KH Braziunas", "MG Turner", "TF Ma", "KC Short", "AR Rissman"]
 
 # Author notes (optional)
 # author_notes:
