@@ -6,14 +6,13 @@ title: Kristin H. Braziunas
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ecosystem Dynamics and Forest Management Group
-    url: https://www.edfm.wzw.tum.de/en.html
-  - name: Technical University of Munich
-    url: https://www.edfm.wzw.tum.de/en.html
+ - name: "the Harvey Lab: Fire and disturbance ecology of forest landscapes"
+   url: https://depts.washington.edu/bjhlab/
+ - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -47,10 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kristin.braziunas@tum.de'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/KBraziunas
+    link: 'mailto:kbraziun@uw.edu'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Vfzi0wEAAAAJ&hl=en&oi=ao
@@ -75,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-There is a critical need to understand how climate change and disturbance regimes will impact forested landscapes and how land managers and residents can navigate changing conditions. My core research examines relationships between climate, disturbances, forest ecosystems, fire risk in the wildland urban interface, and ecosystem services during the 21st century, with a focus on landscapes in the US Northern Rocky Mountains and European Alps. I aim to pursue research in collaboration with and relevant to land managers; to create reproducible science; to foster meaningful and respectful relationships with colleagues and collaborators; and to support diversity and inclusion in science.
+There is a critical need to understand how climate change and disturbance regimes will impact forested landscapes and how land managers and residents can navigate changing conditions. My core research examines relationships between climate, disturbances, forest ecosystems, fire risk in the wildland urban interface, and ecosystem services during the 21st century, with a focus on mountain landscapes in the western United States and the European Alps. I aim to pursue research in collaboration with and relevant to land managers; to create reproducible science; to foster meaningful and respectful relationships with colleagues and collaborators; and to support diversity and inclusion in science.
 

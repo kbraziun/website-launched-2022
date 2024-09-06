@@ -6,10 +6,10 @@ summary: "Funded by European Research Council. PI Rupert Seidl"
 date: '2022-09-28'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.edfm.wzw.tum.de/en/projects/forward.html'
+external_link: 'https://www.lss.ls.tum.de/en/edfm/projekte/forward/'
 
 image:
-  caption: Photo by Jim Peaco, NPS
+  caption: Photo by Kristin Braziunas
   focal_point: Smart
 
 # links: ''

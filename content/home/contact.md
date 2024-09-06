@@ -25,15 +25,15 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: kristin.braziunas@tum.de
+  email: kbraziun@uw.edu
   # phone: 888 888 88 88
   address:
-    street: Hans-Carl-von-Carlowitz-Platz 2
-    city: 85354 Freising
-    region: Germany
-    postcode: ''
-    country: Germany
-    country_code: DE
+    street: 203 Bloedel Hall
+    city: Seattle
+    region: WA
+    postcode: 98195 (USA)
+    country: United States
+    country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
