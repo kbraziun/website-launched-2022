@@ -6,7 +6,7 @@ summary: "Funded by Joint Fire Science Program Graduate Research Innovation Awar
 date: '2022-08-31'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.firescience.gov/ords/prd/jf_jfsp/apex_util.get_blob?s=9793092189726&a=134&c=1324044055379807349&p=28&k1=825&k2=&ck=Gz3X3BdRLbubuuJmsulU_OT_M_ChMS78-1WKp03SsGNn6fDhXoh8PqFOUtHVcGAOc0jOspBKpvgqAY5RjuTv5g&rt=CR'
+external_link: '/uploads/Braziunas_Turner2022_JFSP20-1-01-6_final_report.pdf'
 
 image:
   caption: Photo by Kristin Braziunas
