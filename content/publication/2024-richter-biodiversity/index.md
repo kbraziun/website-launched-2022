@@ -42,7 +42,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: '/uploads/Richter_etal2024_CommsBiology_ClimateForestDevBiodivBGD.pdf'
-url_code: 'https://doi.org/10.5061/dryad.bk3j9kdkp'
+url_code: 'https://doi.org/10.5281/zenodo.10694232'
 url_dataset: 'https://doi.org/10.5061/dryad.bk3j9kdkp'
 url_poster: ''
 url_project: ''
