@@ -32,7 +32,7 @@ experience:
     description: ''
 
   - title: Peer Reviewer
-    company: "Conservation Letters, Ecology, Flora, Forest Ecology and Management, Forestry, Forests, Global Environmental Change, Landscape Ecology, Nature Communications, PLOS One, Proceedings of the National Academy of Sciences, Proceedings of the Royal Society B: Biological Sciences, Science of the Total Environment"
+    company: "Conservation Letters, Ecology, Ecosphere, Flora, Forest Ecology and Management, Forestry, Forests, Geophysical Research Letters, Global Environmental Change, Journal of Environmental Management, Landscape Ecology, Nature Communications, Nature Reviews Biodiversity, PLOS One, Proceedings of the National Academy of Sciences, Proceedings of the Royal Society B: Biological Sciences, Science of the Total Environment"
     company_url: ''
     company_logo: ''
     location: ''

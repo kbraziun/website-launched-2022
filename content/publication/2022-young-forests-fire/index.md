@@ -35,7 +35,7 @@ summary: "Young postfire forests had abundant, densely packed canopy fuels, and 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
